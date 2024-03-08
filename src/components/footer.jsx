@@ -4,11 +4,11 @@ const Footer = () => {
             <hr />
             <div className="footer-container">
                 <p>
-                    &copy; {new Date().getFullYear()} Joel's Portfolio
+                    &copy; {new Date().getFullYear()} Brikman'P. Portfolio
                 </p>
                 <div className="social_icons">
                     <a
-                        href="https://twitter.com/olawanle_joel"
+                        href="https://twitter.com/BrikmanPaul/status/1088087153043738629"
                         aria-label="Twitter"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -24,7 +24,7 @@ const Footer = () => {
                         <i className="fa-brands fa-github"></i>
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/olawanlejoel/"
+                        href="https://www.linkedin.com/in/brikman-paul-morales-52a9a7245/"
                         aria-label="LinkedIn"
                         target="_blank"
                         rel="noopener noreferrer"
