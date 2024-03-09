@@ -16,16 +16,16 @@ const Skills = () => {
                     <p>JavaScript</p>
                 </div>
                 <div className="skill-card react">
-                    <i className="fa-brands fa-react react-icon"></i>
+                    <i className="fa-brands fa-java java-icon"></i>
                     <p>Java</p>
                 </div>
                 <div className="skill-card node">
-                    <i className="fa-brands fa-node-js node-icon"></i>
+                    <i className="fa-brands fa-microsoft csharp-icon"></i>
                     <p>C#</p>
                 </div>
                 <div className="skill-card python">
-                    <i className="fa-brands fa-python python-icon"></i>
-                    <p>SqlServer</p>
+                    <i className="fa-brands fa-microsoft sql-icon"></i>
+                    <p>SqlServerManagmentStudio</p>
                 </div>
             </div>
         </div>

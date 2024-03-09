@@ -16,14 +16,6 @@ const Footer = () => {
                         <i className="fa-brands fa-twitter"></i>
                     </a>
                     <a
-                        href="https://github.com/olawanlejoel"
-                        aria-label="GitHub"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        <i className="fa-brands fa-github"></i>
-                    </a>
-                    <a
                         href="https://www.linkedin.com/in/brikman-paul-morales-52a9a7245/"
                         aria-label="LinkedIn"
                         target="_blank"

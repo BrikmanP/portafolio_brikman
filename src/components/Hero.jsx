@@ -3,7 +3,7 @@ import Image from "next/image";
 const Hero = () => {
     return (
         <div className="hero-container">
-            <Image src='/images/Brikman2.jpeg' className="profile-img" width={300} height={300} alt="Brikman'P. personal headshot" />
+            <Image src='/images/brikman.jpg' className="profile-img" width={300} height={300} alt="Brikman'P. personal headshot" />
             <div className="hero-text">
                 <h1>Hey, I'm Brikman Paul Morales👋</h1>
                 <p>
